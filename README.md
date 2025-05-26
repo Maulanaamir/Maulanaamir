@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://i.ibb.co/WG2hHtN/pixel-banner.gif" alt="Pixel Banner" width="100%" />
+</h1>
 
-<!--
-**Maulanaamir/Maulanaamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👾 Hi, I'm Maulana Amir! 👾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Passionate about coding, creative digital design, and building things from scratch in the terminal.  
+💻 Mostly playing with JavaScript, PHP, and exploring the world of AI.  
+🌑 Dark theme believer & pixel art lover.
+
+</div>
+
+---
+
+## 🔧 Tech Stack
+
+```bash
+💡 Languages     : JavaScript, PHP, Python, HTML, CSS
+🛠️ Frameworks    : React, Tailwind CSS, Node.js, Express
+💾 Databases     : MongoDB, MySQL
+🧩 Tools & IDE   : VS Code, Git, Figma
+📱 Other         : Firebase, Arduino, REST API
