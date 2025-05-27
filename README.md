@@ -8,7 +8,7 @@
 
 🧠 Passionate about coding, creative digital design, and building things from scratch in the terminal.  
 💻 Mostly playing with JavaScript, PHP, and exploring the world of AI.  
-🌑 Dark theme believer & pixel art lover.
+🌑 Dark theme believer 
 
 </div>
 
