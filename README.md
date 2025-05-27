@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/WG2hHtN/pixel-banner.gif" alt="Pixel Banner" width="100%" />
+  <img src="https://64.media.tumblr.com/f2391d52b2f427ddc5c6ef2cd2f1f4b4/7b7f8e154e88f3b5-1a/s1280x1920/e1f178871d08b42c2ae88c816bb504b95a24bdfc.gif" alt="Pixel Chill Banner" width="100%" />
 </h1>
 
 <div align="center">
