@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://64.media.tumblr.com/f2391d52b2f427ddc5c6ef2cd2f1f4b4/7b7f8e154e88f3b5-1a/s1280x1920/e1f178871d08b42c2ae88c816bb504b95a24bdfc.gif" alt="Pixel Chill Banner" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTV2Yjd5djB3bTQ5b2p4eHV3dDhjOXlpYXcwZTAycXA5cW1ubHljYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3OL6mSc2FeV0UHMDg/giphy.gif" alt="Pixel Chill Banner" width="100%" />
 </h1>
 
 <div align="center">
@@ -16,9 +16,10 @@
 
 ## 🔧 Tech Stack
 
-- **Languages**: JavaScript, PHP, Python, HTML, CSS  
-- **Frameworks**: React, Tailwind CSS, Node.js, Express  
-- **Databases**: MongoDB, MySQL  
-- **Tools & IDE**: VS Code, Git, Figma  
-- **Other**: Firebase, Arduino, REST API  
+```bash
+💡 Languages     : JavaScript, PHP, Python, HTML, CSS
+🛠️ Frameworks    : React, Tailwind CSS, Node.js, Express
+💾 Databases     : MongoDB, MySQL
+🧩 Tools & IDE   : VS Code, Git, Figma
+📱 Other         : Firebase, Arduino, REST API  
 
