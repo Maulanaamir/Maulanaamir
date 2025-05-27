@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTV2Yjd5djB3bTQ5b2p4eHV3dDhjOXlpYXcwZTAycXA5cW1ubHljYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3OL6mSc2FeV0UHMDg/giphy.gif" alt="Pixel Chill Banner" width="100%" />
+  <img src="darksouls.gif" alt="Pixel Chill Banner" width="100%" />
 </h1>
 
 <div align="center">
