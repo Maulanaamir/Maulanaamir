@@ -16,9 +16,9 @@
 
 ## 🔧 Tech Stack
 
-```bash
-💡 Languages     : JavaScript, PHP, Python, HTML, CSS
-🛠️ Frameworks    : React, Tailwind CSS, Node.js, Express
-💾 Databases     : MongoDB, MySQL
-🧩 Tools & IDE   : VS Code, Git, Figma
-📱 Other         : Firebase, Arduino, REST API
+- **Languages**: JavaScript, PHP, Python, HTML, CSS  
+- **Frameworks**: React, Tailwind CSS, Node.js, Express  
+- **Databases**: MongoDB, MySQL  
+- **Tools & IDE**: VS Code, Git, Figma  
+- **Other**: Firebase, Arduino, REST API  
+
