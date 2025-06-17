@@ -14,7 +14,7 @@
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/maulanaamir)
 
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Maulanaamir&theme=highcontrast&border_radius=6&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 ---
 
 ## 🚀 Tech Stack
